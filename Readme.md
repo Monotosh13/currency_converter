@@ -27,7 +27,7 @@ Installation
     Clone the repository or download the source code:
 
 bash
-git clone https://github.com/yourusername/currency_converter.git
+git clone https://github.com/Monotosh13/currency_converter.git
 cd currency_converter
 
 Install dependencies:
